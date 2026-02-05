@@ -43,8 +43,25 @@ function Employee(firstName, lastName, email, birthdate, salary) {
 //    of the table to be empty and then replace it with the looped-through values of your object
 
 
-
-
-
 //Try to output 3 instances of your class object into the table
 
+
+
+
+// PART B Why we can't us synchrnous code
+ 
+
+
+
+// Callbacks
+
+
+
+
+// Promises
+
+
+
+
+// Async/Await
+ 
